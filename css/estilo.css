@@ -1,0 +1,113 @@
+body {
+    background-color: #f3f3f3;
+    min-width: 750px;
+}
+.navbar-brand {
+    float: left;
+    padding: 4px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    height: 50px;
+}
+.navbar-brand>img {
+    display: block;
+    width: 130px;
+}
+.navbar {
+    position: relative;
+    min-height: 70px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    background-color: black;
+    border-radius: 0;
+    margin: 0;
+    -webkit-box-shadow: 0px 4px 11px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 4px 11px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 4px 11px -5px rgba(0,0,0,0.75);
+}
+.barra-busqueda{
+  height: 43px !important;
+}
+.card-favoritos{
+  margin: 3em 0;
+}
+#div-src{
+  margin: 1em 0 0 5em;
+}
+.margen{
+  margin: 0 0.5em;
+}
+.margen-titulos{
+  margin:0 0 2em 0;
+}
+.boton-order{
+  width: 150px;
+  text-align: left;
+}
+.cnt-caracter{
+  width: 100%;
+}
+.cnt-caracter img{
+  width:100%;
+  border-radius: 10em;
+}
+.card{
+  display: inline-block;
+  width: 48%;
+  padding: 0;
+  background: white;
+  margin:1%;
+}
+.contenedor-principal{
+  padding: 1em 0 0 0;
+}
+.boton-mas{
+  background:#e21414;
+  color: white;
+  border:none;
+  padding: 0.4em 0.8em;
+}
+.boton-mas span{
+  font-size: 0.7em;
+}
+.comics-relacionados{
+text-align: center;
+font-weight: bold;
+color: #777;
+font-size: 1.2em;
+}
+.descripcion-heroe{
+  font-size: 0.9em;
+}
+.delete{
+  position: absolute;
+  right: 0;
+  top: -1em;
+}
+.quitar-padding
+{
+  padding: 0;
+}
+.boton-orden{
+  border:none;
+  height: 43px;
+}
+.espacio{
+  padding: 1em 0;
+}
+.favoritos{
+  background-color: #ddd;
+}
+footer p{
+  margin: 0;
+}
+.pie-pagina{
+  background-color:#2d2b2b;
+}
+.pie-pagina p{
+  margin: 2em;
+  color: white;
+}
+.pie-pagina img{
+  margin: 0.8em 4em;
+}
